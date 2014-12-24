@@ -1,0 +1,2 @@
+#日付                宛先                 メール本文
+#2014/12/28 1:30    test@example.net     mail/kekkin.eml
